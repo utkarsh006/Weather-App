@@ -13,5 +13,5 @@ request background location access at runtime.
 - textColorPrimary – The color of UI text in the app bar.
 - statusBarColor – The color of the status bar.
 - navigationBarColor – The color of the navigation bar.
-  
+- [Edit Text in XML](https://www.geeksforgeeks.org/working-with-the-edittext-in-android/)
  </details>
